@@ -72,7 +72,7 @@
   </component>
   <component name="RunManager">
     <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="dd-python-learning" />
+      <module name="dd-python-basic-to-advanced" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
