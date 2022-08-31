@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="641eb509-44b2-4ac4-a90f-cd5b4749a2e7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/03_collections/chain_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/03_collections/chain_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/03_collections/counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/03_collections/counter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,5 +1,5 @@
 """
-Demonstrates chain map
+Welcome to python learning
 
 Combines multiple dictionary into single dictionary for lookups
 

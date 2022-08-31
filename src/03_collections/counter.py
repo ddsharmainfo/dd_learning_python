@@ -1,5 +1,5 @@
 """
-Demonstrates Counter in collections
+Welcome to python learning
 
 A Counter is a dict subclass for counting hashable objects. 
 It is an unordered collection where elements are stored as dictionary keys 
