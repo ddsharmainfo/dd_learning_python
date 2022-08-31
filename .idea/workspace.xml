@@ -5,34 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="641eb509-44b2-4ac4-a90f-cd5b4749a2e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_data_structures/list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dd-python-basic-to-advanced.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dd-python-basic-to-advanced.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class_Object.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_objects/Class_Object.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DateTime.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/date_time/DateTime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DateTimeFormat.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/date_time/DateTimeFormat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DateTimeReplace.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/date_time/DateTimeReplace.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DateTime_strptime.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/date_time/DateTime_strptime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex-Basic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex-List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex-Tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/02_data_structures/tuples_examples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Excel-xlrd-Read.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/excel/Excel-xlrd-Read.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Find_Files_Extension.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/Find_Files_Extension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Openpyxl-Excel-Read-Workbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/excel/Openpyxl-Excel-Read-Workbook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Openpyxl-Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/excel/Openpyxl-Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pandas-CSV-ReadWrite.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pandas/Pandas-CSV-ReadWrite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pandas-Excel-Read-MultiSheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pandas/Pandas-Excel-Read-MultiSheet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pandas-Excel-Read.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pandas/Pandas-Excel-Read.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_objects/main_a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_objects/main_b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_objects/main_one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_objects/main_two.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mysql-connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/database_connections/mysql-connect.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
