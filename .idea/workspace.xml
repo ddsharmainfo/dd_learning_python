@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="09f5cb61-bd45-4622-a90c-b2487e77672a" name="Default Changelist" comment="" />
+    <list default="true" id="641eb509-44b2-4ac4-a90f-cd5b4749a2e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/02_data_structures/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dd-python-basic-to-advanced.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dd-python-basic-to-advanced.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class_Object.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_objects/Class_Object.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DateTime.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/date_time/DateTime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DateTimeFormat.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/date_time/DateTimeFormat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DateTimeReplace.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/date_time/DateTimeReplace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DateTime_strptime.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/date_time/DateTime_strptime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex-Basic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex-List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex-Tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/02_data_structures/tuples_examples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Excel-xlrd-Read.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/excel/Excel-xlrd-Read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Find_Files_Extension.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/others/Find_Files_Extension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Openpyxl-Excel-Read-Workbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/excel/Openpyxl-Excel-Read-Workbook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Openpyxl-Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/excel/Openpyxl-Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pandas-CSV-ReadWrite.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pandas/Pandas-CSV-ReadWrite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pandas-Excel-Read-MultiSheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pandas/Pandas-Excel-Read-MultiSheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pandas-Excel-Read.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pandas/Pandas-Excel-Read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_objects/main_a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_objects/main_b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_objects/main_one.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_objects/main_two.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mysql-connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/database_connections/mysql-connect.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,58 +49,162 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/hello.py" />
-      </list>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1050" />
-  </component>
-  <component name="ProjectId" id="21MjBgLnnn5ohx371kcAPodq11Y" />
+  <component name="ProjectId" id="2DyF9scuxtSTpfjmuiw7Nc2IHbe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="dd-python-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dd-python-learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dd-python-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dd-python-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/class_objects" />
+      <recent name="$PROJECT_DIR$/src/others" />
+      <recent name="$PROJECT_DIR$/src/date_time" />
+      <recent name="$PROJECT_DIR$/src/database_connections" />
+      <recent name="$PROJECT_DIR$/src/excel" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.05_while_loops">
+    <configuration name="04_for_loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dd-python-basic-to-advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/01_basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/01_basics/04_for_loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_while_loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dd-python-basic-to-advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/01_basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/01_basics/05_while_loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="dd-python-basic-to-advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dd-python-basic-to-advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/error_handling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/error_handling/basic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dd-python-basic-to-advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/02_data_structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/02_data_structures/list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dd-python-basic-to-advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/02_data_structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/02_data_structures/list_methods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_python" type="PythonConfigurationType" factoryName="Python">
       <module name="dd-python-basic-to-advanced" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,54 +225,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.run_python" />
+      <item itemvalue="Python.04_for_loops" />
+      <item itemvalue="Python.05_while_loops" />
+      <item itemvalue="Python.basic" />
+      <item itemvalue="Python.list" />
+      <item itemvalue="Python.list_methods" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hello" />
+        <item itemvalue="Python.05_while_loops" />
+        <item itemvalue="Python.04_for_loops" />
+        <item itemvalue="Python.basic" />
+        <item itemvalue="Python.list_methods" />
+        <item itemvalue="Python.list" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="09f5cb61-bd45-4622-a90c-b2487e77672a" name="Default Changelist" comment="" />
-      <created>1536747127094</created>
+      <changelist id="641eb509-44b2-4ac4-a90f-cd5b4749a2e7" name="Changes" comment="" />
+      <created>1661663273157</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1536747127094</updated>
+      <updated>1661663273157</updated>
     </task>
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18968935" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32960895" />
-      <window_info anchor="bottom" id="Python Console" order="5" weight="0.32960895" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" weight="0.32960895" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.39944133" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.3980447" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" weight="0.32960895" />
-      <window_info anchor="right" id="SciView" order="0" />
-      <window_info anchor="right" id="R Graphics" order="1" />
-      <window_info anchor="right" id="Database" order="2" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
-      <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
-    </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -148,21 +264,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class_Object.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
   </component>
 </project>
