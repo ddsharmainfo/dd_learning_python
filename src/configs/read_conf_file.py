@@ -5,21 +5,21 @@ config.read('./config.conf')
 
 print('\n ===== Dev configs =====')
 ENV_VAR = 'DEV'
-schema_raw = config.get(ENV_VAR, "param1")
-schema_stage = config.get(ENV_VAR, "param2")
-print('Value of param1 is = ', schema_raw)
-print('Value of param2 is = ', schema_stage)
+param1 = config.get(ENV_VAR, "param1")
+param2 = config.get(ENV_VAR, "param2")
+print('Value of param1 is = ', param1)
+print('Value of param2 is = ', param2)
 
 print('\n ===== QA configs =====')
 ENV_VAR = 'QA'
-schema_raw = config.get(ENV_VAR, "param1")
-schema_stage = config.get(ENV_VAR, "param2")
-print('Value of param1 is = ', schema_raw)
-print('Value of param2 is = ', schema_stage)
+param1 = config.get(ENV_VAR, "param1")
+param2 = config.get(ENV_VAR, "param2")
+print('Value of param1 is = ', param1)
+print('Value of param2 is = ', param2)
 
 print('\n===== PROD configs =====')
 ENV_VAR = 'PROD'
-schema_raw = config.get(ENV_VAR, "param1")
-schema_stage = config.get(ENV_VAR, "param2")
-print('Value of param1 is = ', schema_raw)
-print('Value of param2 is = ', schema_stage)
+param1 = config.get(ENV_VAR, "param1")
+param2 = config.get(ENV_VAR, "param2")
+print('Value of param1 is = ', param1)
+print('Value of param2 is = ', param2)
