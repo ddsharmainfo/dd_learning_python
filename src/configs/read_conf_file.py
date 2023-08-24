@@ -1,7 +1,7 @@
 import configparser
 
 config = configparser.ConfigParser()
-config.read('./config.properties')
+config.read('./config.conf')
 
 print('\n ===== Dev configs =====')
 ENV_VAR = 'DEV'
