@@ -2,17 +2,24 @@
 Welcome to python learning
 """
 
-error_code = -1
+
+def divide(x, y):
+    return x/y
+
+
+a = 10
+b = 0
 
 try:
-    # try some code
-    dicts = dict(blue=0, green=1, red=2)
-    error_code = dicts['red1']
+    # Code that may raise an exception
+    result = divide(a, b)
+except ZeroDivisionError:
+    # Handle specific exception
+    print("Error: Division by zero")
 except Exception as e:
-    # handle exception
-    print('error accessing dictionary, key does not exist:', e)
-else:
-    print('colorCode', dicts)
+    # Handle generic exception
+    print("An error occurred:", e)
 finally:
+    # Finally block typically used for cleanup
     # run code which needs to execute regardless of error or not
-    print('grace full shutdown')
+    print('Application Gracefully Shutdown!')
