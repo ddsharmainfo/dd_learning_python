@@ -29,6 +29,7 @@ else:
     # No exception? Run this code
     print('No exception? Run this code!')
 finally:
+    # Python always run finally block
     # Finally block typically used for cleanup
-    # run code which needs to execute regardless of error or not
+    # Run code which needs to execute regardless of error or not
     print('Application Gracefully Shutdown!')
